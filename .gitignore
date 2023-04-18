@@ -3,4 +3,7 @@
 .idea/
 *.iml
 target/
-*.lock
+
+# Added by cargo
+
+/target
