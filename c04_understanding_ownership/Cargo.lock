@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "hello-rust"
+name = "c04_understanding_ownership"
 version = "0.1.0"
