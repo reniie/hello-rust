@@ -1,9 +1,10 @@
 # don't track
 .DS_Store
 .idea/
+.vscode/
 *.iml
 target/
-
+book-cn/
 # Added by cargo
 
 /target
